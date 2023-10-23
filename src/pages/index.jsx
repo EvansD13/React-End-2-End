@@ -1,0 +1,5 @@
+export { default as Homepage } from "./Home"
+export { default as ShowPage } from "./Show"
+export { default as ShowAllPage } from "./Shows"
+export { default as SearchPage } from "./Search"
+export { default as NotFoundPage } from "./NotFoundPage"
